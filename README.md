@@ -19,5 +19,5 @@ The script performs the following tasks:
 - Iterates through each defined path and performs the cleanup if the path exists.
 - Outputs the results of the cleanup process.
 
-#Prerequisites
+# Prerequisites
 - Ensure you have the necessary permissions to delete files from the specified directories.
