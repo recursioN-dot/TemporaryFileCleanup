@@ -2,7 +2,7 @@
 This PowerShell script is designed to clean up temporary files older than a specified number of days from various system paths. 
 These Temp files never get deleted and with time it takes up a large amount of storage.
 The idea here is to automate the script using Windows Task Scheduler so you don't have to run it yourself. 
-This will also ensure that Temp files are always deleted and never get too large.
+This will also ensure that Temp files are always deleted and that they never get too large.
 This script targets the following directories:
 
 - System Temp directory
